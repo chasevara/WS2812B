@@ -10,7 +10,7 @@
 
 // Helper function prototype declarations
 
-/** @brief  Helper function to ransformsinput 24-bit RGB color data into an output
+/** @brief  Helper function to transform input 24-bit RGB color data into an output
   *         array of PWM timer settings for duty cycle modulation to drive WS2812B
   *         24-bit color setting
   *
